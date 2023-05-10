@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/VK-internship-task/static/css/main.a9c898f1.css",
+    "main.js": "/VK-internship-task/static/js/main.7a366730.js",
+    "static/media/windows.jpg": "/VK-internship-task/static/media/windows.4c31020bb9378dcdcd30.jpg",
+    "index.html": "/VK-internship-task/index.html",
+    "main.a9c898f1.css.map": "/VK-internship-task/static/css/main.a9c898f1.css.map",
+    "main.7a366730.js.map": "/VK-internship-task/static/js/main.7a366730.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a9c898f1.css",
+    "static/js/main.7a366730.js"
+  ]
+}
