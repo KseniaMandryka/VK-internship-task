@@ -19,6 +19,6 @@
 Решение направить в виде ссылки на репозиторий.
 
 #### Решение
-[Посмотреть демо](https://kseniamandryka.github.io/VK-internship-task/)
+[Посмотреть демо](https://kseniamandryka.github.io/VK-internship-task/)\
 Форма выполнена с использование React. В верстке использованы флексбоксы.
 
